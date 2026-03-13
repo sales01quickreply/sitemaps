@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://www.quickreply.ai/integrations</loc>
-        <lastmod>2026-03-03</lastmod>
+        <lastmod>2026-03-08</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/integrations/airtable</loc>
-        <lastmod>2026-03-03</lastmod>
+        <lastmod>2026-03-09</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/integrations/blaze</loc>
-        <lastmod>2026-03-08</lastmod>
+        <lastmod>2026-03-12</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/integrations/breeze</loc>
@@ -18,11 +18,11 @@
     </url>
     <url>
         <loc>https://www.quickreply.ai/integrations/cashfree-payments</loc>
-        <lastmod>2026-03-08</lastmod>
+        <lastmod>2026-03-10</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/integrations/clickpost</loc>
-        <lastmod>2026-03-07</lastmod>
+        <lastmod>2026-03-12</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/integrations/delhivery</loc>
@@ -34,27 +34,27 @@
     </url>
     <url>
         <loc>https://www.quickreply.ai/integrations/erp-crm</loc>
-        <lastmod>2026-03-06</lastmod>
+        <lastmod>2026-03-10</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/integrations/fresh-desk-crm</loc>
-        <lastmod>2026-03-03</lastmod>
+        <lastmod>2026-03-09</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/integrations/freshdesk</loc>
-        <lastmod>2026-03-08</lastmod>
+        <lastmod>2026-03-13</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/integrations/go-high-level</loc>
-        <lastmod>2026-03-08</lastmod>
+        <lastmod>2026-03-13</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/integrations/gokwik</loc>
-        <lastmod>2026-03-07</lastmod>
+        <lastmod>2026-03-12</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/integrations/google-analytics</loc>
-        <lastmod>2026-03-09</lastmod>
+        <lastmod>2026-03-13</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/integrations/google-sheet</loc>
@@ -62,43 +62,43 @@
     </url>
     <url>
         <loc>https://www.quickreply.ai/integrations/hubspot</loc>
-        <lastmod>2026-03-06</lastmod>
+        <lastmod>2026-03-11</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/integrations/instagram-and-facebook</loc>
-        <lastmod>2026-03-07</lastmod>
+        <lastmod>2026-03-12</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/integrations/judge-me</loc>
-        <lastmod>2026-03-06</lastmod>
+        <lastmod>2026-03-13</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/integrations/kylas</loc>
-        <lastmod>2026-03-09</lastmod>
+        <lastmod>2026-03-12</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/integrations/leadsquared</loc>
-        <lastmod>2026-03-07</lastmod>
+        <lastmod>2026-03-13</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/integrations/loox</loc>
-        <lastmod>2026-03-08</lastmod>
+        <lastmod>2026-03-12</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/integrations/meta-pixel</loc>
-        <lastmod>2026-03-03</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/integrations/nector</loc>
-        <lastmod>2026-03-06</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/integrations/nimbus-post</loc>
         <lastmod>2026-03-08</lastmod>
     </url>
     <url>
+        <loc>https://www.quickreply.ai/integrations/nector</loc>
+        <lastmod>2026-03-13</lastmod>
+    </url>
+    <url>
+        <loc>https://www.quickreply.ai/integrations/nimbus-post</loc>
+        <lastmod>2026-03-09</lastmod>
+    </url>
+    <url>
         <loc>https://www.quickreply.ai/integrations/pabbly</loc>
-        <lastmod>2026-03-10</lastmod>
+        <lastmod>2026-03-13</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/integrations/payu</loc>
@@ -106,47 +106,47 @@
     </url>
     <url>
         <loc>https://www.quickreply.ai/integrations/pipedream</loc>
-        <lastmod>2026-03-09</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/integrations/proviews</loc>
-        <lastmod>2026-03-06</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/integrations/razorpay</loc>
-        <lastmod>2026-03-09</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/integrations/razorpay-magic-checkout</loc>
-        <lastmod>2026-03-07</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/integrations/salesforce-crm</loc>
-        <lastmod>2026-03-03</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/integrations/shipio</loc>
-        <lastmod>2026-03-07</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/integrations/shiprocket</loc>
-        <lastmod>2026-03-04</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/integrations/shopflo</loc>
-        <lastmod>2026-03-06</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/integrations/simpl</loc>
-        <lastmod>2026-03-07</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/integrations/swift</loc>
         <lastmod>2026-03-10</lastmod>
     </url>
     <url>
+        <loc>https://www.quickreply.ai/integrations/proviews</loc>
+        <lastmod>2026-03-10</lastmod>
+    </url>
+    <url>
+        <loc>https://www.quickreply.ai/integrations/razorpay</loc>
+        <lastmod>2026-03-13</lastmod>
+    </url>
+    <url>
+        <loc>https://www.quickreply.ai/integrations/razorpay-magic-checkout</loc>
+        <lastmod>2026-03-13</lastmod>
+    </url>
+    <url>
+        <loc>https://www.quickreply.ai/integrations/salesforce-crm</loc>
+        <lastmod>2026-03-09</lastmod>
+    </url>
+    <url>
+        <loc>https://www.quickreply.ai/integrations/shipio</loc>
+        <lastmod>2026-03-10</lastmod>
+    </url>
+    <url>
+        <loc>https://www.quickreply.ai/integrations/shiprocket</loc>
+        <lastmod>2026-03-09</lastmod>
+    </url>
+    <url>
+        <loc>https://www.quickreply.ai/integrations/shopflo</loc>
+        <lastmod>2026-03-11</lastmod>
+    </url>
+    <url>
+        <loc>https://www.quickreply.ai/integrations/simpl</loc>
+        <lastmod>2026-03-13</lastmod>
+    </url>
+    <url>
+        <loc>https://www.quickreply.ai/integrations/swift</loc>
+        <lastmod>2026-03-12</lastmod>
+    </url>
+    <url>
         <loc>https://www.quickreply.ai/integrations/wareiq</loc>
-        <lastmod>2026-03-08</lastmod>
+        <lastmod>2026-03-12</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/integrations/zapier</loc>
@@ -154,19 +154,19 @@
     </url>
     <url>
         <loc>https://www.quickreply.ai/integrations/zenoti</loc>
-        <lastmod>2026-03-08</lastmod>
+        <lastmod>2026-03-13</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/integrations/zoho-crm</loc>
-        <lastmod>2026-03-08</lastmod>
+        <lastmod>2026-03-10</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/integrations/zoho-desk</loc>
-        <lastmod>2026-03-06</lastmod>
+        <lastmod>2026-03-11</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/integrations/zoho-desk-crm</loc>
-        <lastmod>2026-03-06</lastmod>
+        <lastmod>2026-03-12</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/integrations/zoho-desk-ticketing</loc>
