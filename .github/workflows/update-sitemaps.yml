@@ -7,6 +7,11 @@ on:
 
   # Allow manual triggering from GitHub Actions tab
   workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run: build the sitemaps for review only, do not publish them'
+        type: boolean
+        default: true
 
 jobs:
   update-sitemaps:
@@ -28,17 +33,33 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests>=2.28.0
 
-      - name: Run sitemap reorganizer
+      # Scheduled runs and manual runs with dry_run unticked publish straight to the repo root.
+      # Dry runs write to ./preview instead and attach the files to the run for review.
+      - name: Generate sitemaps from Webflow
+        env:
+          WEBFLOW_API_TOKEN: ${{ secrets.WEBFLOW_API_TOKEN }}
         run: |
-          python sitemap-reorganizer.py https://www.quickreply.ai --workers 20 --github-pages-url https://sales01quickreply.github.io/sitemaps
+          OUT=.
+          if [ "${{ inputs.dry_run }}" = "true" ]; then OUT=preview; fi
+          python webflow-sitemap.py https://www.quickreply.ai --workers 10 \
+            --github-pages-url https://sales01quickreply.github.io/sitemaps \
+            --output-dir "$OUT" --previous-dir .
+
+      - name: Attach preview files
+        if: inputs.dry_run == true
+        uses: actions/upload-artifact@v4
+        with:
+          name: sitemap-preview
+          path: preview/
 
       - name: Check for changes
         id: check_changes
+        if: inputs.dry_run != true
         run: |
           git diff --quiet sitemap*.xml || echo "changes=true" >> $GITHUB_OUTPUT
 
       - name: Commit and push if changed
-        if: steps.check_changes.outputs.changes == 'true'
+        if: inputs.dry_run != true && steps.check_changes.outputs.changes == 'true'
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions@github.com'
@@ -47,6 +68,6 @@ jobs:
           git push
 
       - name: No changes detected
-        if: steps.check_changes.outputs.changes != 'true'
+        if: inputs.dry_run != true && steps.check_changes.outputs.changes != 'true'
         run: |
           echo "✅ No changes detected in sitemaps. Skipping commit."
