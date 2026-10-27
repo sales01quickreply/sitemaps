@@ -2,11 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://www.quickreply.ai</loc>
-        <lastmod>2026-10-22</lastmod>
+        <lastmod>2026-10-23</lastmod>
+    </url>
+    <url>
+        <loc>https://www.quickreply.ai/about-us</loc>
+        <lastmod>2026-10-27</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/ads-integration</loc>
-        <lastmod>2026-10-05</lastmod>
+        <lastmod>2026-10-23</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/ae/facebook-messenger-chatbot</loc>
@@ -846,7 +850,7 @@
     </url>
     <url>
         <loc>https://www.quickreply.ai/integrations/nitro</loc>
-        <lastmod>2026-05-22</lastmod>
+        <lastmod>2026-10-26</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/integrations/pabbly</loc>
@@ -1058,7 +1062,7 @@
     </url>
     <url>
         <loc>https://www.quickreply.ai/others/customer-journey-automation</loc>
-        <lastmod>2026-10-16</lastmod>
+        <lastmod>2026-10-23</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/others/delightchat-alternative</loc>
@@ -1341,30 +1345,6 @@
         <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-        <loc>https://www.quickreply.ai/products/ads-integration</loc>
-        <lastmod>2026-04-17</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/products/journey-builder</loc>
-        <lastmod>2026-04-17</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/products/messenger</loc>
-        <lastmod>2026-04-17</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/products/opt-in-tools</loc>
-        <lastmod>2026-04-17</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/products/sms</loc>
-        <lastmod>2026-04-17</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/products/social-media-integration</loc>
-        <lastmod>2026-04-17</lastmod>
-    </url>
-    <url>
         <loc>https://www.quickreply.ai/qr-case-study</loc>
         <lastmod>2026-10-05</lastmod>
     </url>
@@ -1471,42 +1451,6 @@
     <url>
         <loc>https://www.quickreply.ai/upsell-cross-sell-automation</loc>
         <lastmod>2026-10-05</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/usecase/abandoned-cart-recovery</loc>
-        <lastmod>2025-11-11</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/usecase/cod-orders-to-prepaid</loc>
-        <lastmod>2025-11-11</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/usecase/customer-support</loc>
-        <lastmod>2025-11-11</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/usecase/new-product-launch-campaigns-whatsapp</loc>
-        <lastmod>2025-11-11</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/usecase/order-alerts-and-notifications</loc>
-        <lastmod>2025-11-11</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/usecase/repeat-purchases</loc>
-        <lastmod>2025-11-11</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/usecase/upselling-campaigns-whatsapp</loc>
-        <lastmod>2025-11-12</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/usecase/whatsapp-broadcast-marketing</loc>
-        <lastmod>2025-11-11</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/usecase/whatsapp-chatbot</loc>
-        <lastmod>2025-11-11</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/user-journey-builder</loc>
@@ -1825,15 +1769,7 @@
         <lastmod>2026-10-21</lastmod>
     </url>
     <url>
-        <loc>https://www.quickreply.ai/whatsapp-drip-campaigns/how-to-upsell-and-cross-sell-with-whatsapp-marketing</loc>
-        <lastmod>2026-10-21</lastmod>
-    </url>
-    <url>
         <loc>https://www.quickreply.ai/whatsapp-drip-campaigns/how-to-use-whatsapp-marketing-to-increase-repeat-sales</loc>
-        <lastmod>2026-10-21</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/whatsapp-drip-campaigns/improve-customer-experience-by-sending-regular-order-alerts</loc>
         <lastmod>2026-10-21</lastmod>
     </url>
     <url>
@@ -1842,10 +1778,6 @@
     </url>
     <url>
         <loc>https://www.quickreply.ai/whatsapp-drip-campaigns/superlemon-alternative</loc>
-        <lastmod>2026-10-21</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/whatsapp-drip-campaigns/uplift-your-sales-through-end-of-season-sale</loc>
         <lastmod>2026-10-21</lastmod>
     </url>
     <url>
@@ -1870,10 +1802,6 @@
     </url>
     <url>
         <loc>https://www.quickreply.ai/whatsapp-drip-campaigns/whatsapp-retention-marketing-fashion</loc>
-        <lastmod>2026-10-21</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/whatsapp-drip-campaigns/whatsapp-upsell-and-cross-sell-campaigns</loc>
         <lastmod>2026-10-21</lastmod>
     </url>
     <url>
@@ -1902,7 +1830,7 @@
     </url>
     <url>
         <loc>https://www.quickreply.ai/whatsapp-marketing</loc>
-        <lastmod>2026-10-05</lastmod>
+        <lastmod>2026-10-23</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/whatsapp-marketing-automation</loc>
@@ -1966,10 +1894,6 @@
     </url>
     <url>
         <loc>https://www.quickreply.ai/whatsapp-marketing/how-and-why-to-use-whatsapp-business-for-home-decor-and-furniture-businesses</loc>
-        <lastmod>2026-10-14</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/whatsapp-marketing/how-to-boost-customer-retention-for-shopify-using-whatsapp</loc>
         <lastmod>2026-10-14</lastmod>
     </url>
     <url>
@@ -2050,10 +1974,6 @@
     </url>
     <url>
         <loc>https://www.quickreply.ai/whatsapp-marketing/innovative-ways-to-use-whatsapp-marketing-for-beauty-and-cosmetics-brands</loc>
-        <lastmod>2026-10-14</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/whatsapp-marketing/jewellery-brand-whatsapp-broadcast-success-story</loc>
         <lastmod>2026-10-14</lastmod>
     </url>
     <url>
@@ -2170,7 +2090,7 @@
     </url>
     <url>
         <loc>https://www.quickreply.ai/whatsapp-retargetings</loc>
-        <lastmod>2026-10-05</lastmod>
+        <lastmod>2026-10-23</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/whatsapp-salesforce-integration-pricing</loc>

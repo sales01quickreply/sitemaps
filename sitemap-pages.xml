@@ -2,11 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://www.quickreply.ai</loc>
-        <lastmod>2026-10-22</lastmod>
+        <lastmod>2026-10-23</lastmod>
+    </url>
+    <url>
+        <loc>https://www.quickreply.ai/about-us</loc>
+        <lastmod>2026-10-27</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/ads-integration</loc>
-        <lastmod>2026-10-05</lastmod>
+        <lastmod>2026-10-23</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/ae/facebook-messenger-chatbot</loc>
@@ -621,30 +625,6 @@
         <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-        <loc>https://www.quickreply.ai/products/ads-integration</loc>
-        <lastmod>2026-04-17</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/products/journey-builder</loc>
-        <lastmod>2026-04-17</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/products/messenger</loc>
-        <lastmod>2026-04-17</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/products/opt-in-tools</loc>
-        <lastmod>2026-04-17</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/products/sms</loc>
-        <lastmod>2026-04-17</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/products/social-media-integration</loc>
-        <lastmod>2026-04-17</lastmod>
-    </url>
-    <url>
         <loc>https://www.quickreply.ai/qr-case-study</loc>
         <lastmod>2026-10-05</lastmod>
     </url>
@@ -751,42 +731,6 @@
     <url>
         <loc>https://www.quickreply.ai/upsell-cross-sell-automation</loc>
         <lastmod>2026-10-05</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/usecase/abandoned-cart-recovery</loc>
-        <lastmod>2025-11-11</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/usecase/cod-orders-to-prepaid</loc>
-        <lastmod>2025-11-11</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/usecase/customer-support</loc>
-        <lastmod>2025-11-11</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/usecase/new-product-launch-campaigns-whatsapp</loc>
-        <lastmod>2025-11-11</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/usecase/order-alerts-and-notifications</loc>
-        <lastmod>2025-11-11</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/usecase/repeat-purchases</loc>
-        <lastmod>2025-11-11</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/usecase/upselling-campaigns-whatsapp</loc>
-        <lastmod>2025-11-12</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/usecase/whatsapp-broadcast-marketing</loc>
-        <lastmod>2025-11-11</lastmod>
-    </url>
-    <url>
-        <loc>https://www.quickreply.ai/usecase/whatsapp-chatbot</loc>
-        <lastmod>2025-11-11</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/user-journey-builder</loc>
