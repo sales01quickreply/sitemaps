@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://www.quickreply.ai</loc>
-        <lastmod>2026-11-17</lastmod>
+        <lastmod>2026-11-20</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/about-us</loc>
@@ -394,7 +394,7 @@
     </url>
     <url>
         <loc>https://www.quickreply.ai/demo</loc>
-        <lastmod>2026-11-16</lastmod>
+        <lastmod>2026-11-20</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/demo-abandoned-cart</loc>
@@ -562,7 +562,7 @@
     </url>
     <url>
         <loc>https://www.quickreply.ai/legal/privacy-policy</loc>
-        <lastmod>2026-09-10</lastmod>
+        <lastmod>2026-11-20</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/legal/return-policy</loc>
@@ -571,6 +571,10 @@
     <url>
         <loc>https://www.quickreply.ai/legal/shipping-policy</loc>
         <lastmod>2023-12-07</lastmod>
+    </url>
+    <url>
+        <loc>https://www.quickreply.ai/legal/sms-terms</loc>
+        <lastmod>2026-11-20</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/legal/terms-of-service</loc>
@@ -723,6 +727,10 @@
     <url>
         <loc>https://www.quickreply.ai/upsell-cross-sell-automation</loc>
         <lastmod>2026-10-28</lastmod>
+    </url>
+    <url>
+        <loc>https://www.quickreply.ai/us/demo</loc>
+        <lastmod>2026-11-20</lastmod>
     </url>
     <url>
         <loc>https://www.quickreply.ai/user-journey-builder</loc>
